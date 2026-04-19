@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creador de bugs<br>📚 Actualmente estoy aprendiendo<br><br>Apasionado por la tecnología y la informática, cursando la carrera de Ingeniería en Sistemas en la Universidad Mariano Gálvez.</p>
+<p align="left">✨ Creador de bugs<br>📚 Actualmente estoy aprendiendo</p>
 
 ###
 
