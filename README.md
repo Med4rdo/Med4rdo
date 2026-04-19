@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre Mí</h2>
 
 ###
 
-<p align="left">✨ Creador de bugs<br>📚 Actualmente estoy aprendiendo</p>
+<p align="left">✨ Creador de bugs<br>📚 Actualmente estoy aprendiendo<br><br>Apasionado por la tecnología y la informática, cursando la carrera de Ingeniería en Sistemas en la Universidad Mariano Gálvez.</p>
 
 ###
 
